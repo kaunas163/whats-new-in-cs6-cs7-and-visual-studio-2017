@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cs6", "cs6", "{548155D2-C94
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autoproperties and immutability", "cs6\autoproperties and immutability\autoproperties and immutability.csproj", "{89733598-8C4E-45D6-B805-395D918BE207}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "expression-bodied members", "cs6\expression-bodied members\expression-bodied members.csproj", "{B66B503D-CE70-468F-9D2C-A2EA6C451F6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{89733598-8C4E-45D6-B805-395D918BE207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89733598-8C4E-45D6-B805-395D918BE207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89733598-8C4E-45D6-B805-395D918BE207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66B503D-CE70-468F-9D2C-A2EA6C451F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66B503D-CE70-468F-9D2C-A2EA6C451F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66B503D-CE70-468F-9D2C-A2EA6C451F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66B503D-CE70-468F-9D2C-A2EA6C451F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{89733598-8C4E-45D6-B805-395D918BE207} = {548155D2-C943-4F96-BD1C-D51448304D1E}
+		{B66B503D-CE70-468F-9D2C-A2EA6C451F6B} = {548155D2-C943-4F96-BD1C-D51448304D1E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96DD28E7-1DCF-46AE-8667-F824B09903C7}
