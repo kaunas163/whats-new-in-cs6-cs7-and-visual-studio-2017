@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "import statics", "cs6\impor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string interpolation", "cs6\string interpolation\string interpolation.csproj", "{BE302009-76CF-40D2-94E8-550E45F02DFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "safe navigation operator", "cs6\safe navigation operator\safe navigation operator.csproj", "{7C41E366-835B-42B8-A1CD-127982135DB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{BE302009-76CF-40D2-94E8-550E45F02DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE302009-76CF-40D2-94E8-550E45F02DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE302009-76CF-40D2-94E8-550E45F02DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C41E366-835B-42B8-A1CD-127982135DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C41E366-835B-42B8-A1CD-127982135DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C41E366-835B-42B8-A1CD-127982135DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C41E366-835B-42B8-A1CD-127982135DB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{C4DC202F-52DB-43FD-B578-9C2D12BDCD04} = {548155D2-C943-4F96-BD1C-D51448304D1E}
 		{C377196D-E575-4459-AF96-463244D21772} = {548155D2-C943-4F96-BD1C-D51448304D1E}
 		{BE302009-76CF-40D2-94E8-550E45F02DFC} = {548155D2-C943-4F96-BD1C-D51448304D1E}
+		{7C41E366-835B-42B8-A1CD-127982135DB8} = {548155D2-C943-4F96-BD1C-D51448304D1E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96DD28E7-1DCF-46AE-8667-F824B09903C7}
