@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "safe navigation operator", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collection initializers", "cs6\collection initializers\collection initializers.csproj", "{9996346B-4536-45FA-B00A-C8FF949056BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exception filters", "cs6\exception filters\exception filters.csproj", "{A65DE792-D311-49F8-A88B-E72198FB1006}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{9996346B-4536-45FA-B00A-C8FF949056BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9996346B-4536-45FA-B00A-C8FF949056BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9996346B-4536-45FA-B00A-C8FF949056BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65DE792-D311-49F8-A88B-E72198FB1006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65DE792-D311-49F8-A88B-E72198FB1006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65DE792-D311-49F8-A88B-E72198FB1006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65DE792-D311-49F8-A88B-E72198FB1006}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +71,7 @@ Global
 		{BE302009-76CF-40D2-94E8-550E45F02DFC} = {548155D2-C943-4F96-BD1C-D51448304D1E}
 		{7C41E366-835B-42B8-A1CD-127982135DB8} = {548155D2-C943-4F96-BD1C-D51448304D1E}
 		{9996346B-4536-45FA-B00A-C8FF949056BB} = {548155D2-C943-4F96-BD1C-D51448304D1E}
+		{A65DE792-D311-49F8-A88B-E72198FB1006} = {548155D2-C943-4F96-BD1C-D51448304D1E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96DD28E7-1DCF-46AE-8667-F824B09903C7}
