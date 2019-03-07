@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuples and deconstruction",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "local functions", "cs7\local functions\local functions.csproj", "{29936164-43FE-47D1-AC45-B261F76C44D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "returning by reference", "cs7\returning by reference\returning by reference.csproj", "{788449D1-39A0-4501-8820-21F13D05D14F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{29936164-43FE-47D1-AC45-B261F76C44D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29936164-43FE-47D1-AC45-B261F76C44D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29936164-43FE-47D1-AC45-B261F76C44D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788449D1-39A0-4501-8820-21F13D05D14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788449D1-39A0-4501-8820-21F13D05D14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788449D1-39A0-4501-8820-21F13D05D14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788449D1-39A0-4501-8820-21F13D05D14F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,6 +108,7 @@ Global
 		{161ED04E-C944-4145-948A-B74A7513EAC5} = {239E015C-551A-4C38-93D8-D06534B4EDEC}
 		{A6B1521F-B6C3-4BAE-AE7A-9C942A93A3BA} = {239E015C-551A-4C38-93D8-D06534B4EDEC}
 		{29936164-43FE-47D1-AC45-B261F76C44D4} = {239E015C-551A-4C38-93D8-D06534B4EDEC}
+		{788449D1-39A0-4501-8820-21F13D05D14F} = {239E015C-551A-4C38-93D8-D06534B4EDEC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {96DD28E7-1DCF-46AE-8667-F824B09903C7}
